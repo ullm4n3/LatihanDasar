@@ -1,0 +1,4 @@
+#Sat Mar 31 17:07:58 WITA 2018
+base.0=/home/sulaiman/AndroidStudioProjects/LatihanDasar/app/build/intermediates/transforms/dexMerger/debug/21
+path.0=classes.dex
+renamed.0=classes.dex

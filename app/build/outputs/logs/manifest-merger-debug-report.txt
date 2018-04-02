@@ -1,0 +1,136 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:design:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/21be01105056bbe0aef390f4627988e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/d586de2681f8137d372428f3bb856b13/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/e46341458ae5a4059e11872f7dc13f1f/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/53dc963933d8965bbfb0b2966661045b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/b37998afc06a025af2a7ce97d3ea9c43/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/d812d0f35475cd63adbd983c0cca353e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/a447e16a9c4ba222879376a3f11bea8a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/cb20c1f51609886d113466908122c0f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/acc56772bb1982ae4168989acd6b0055/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/1b3e825c61ddaf964a7dc02157eb1d2b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/327dbc9cec3e642e6c452fe3bfdcf7fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/40d31e9d4dba4aebd89c8ccd19487b1c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/97c102d307955a6d37aca9132c9c8035/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0137575e016f24c0912cb76c408d2ac0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/63b77aa7d3a07e6a6ddfdd925de73483/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/733283e4b37c5f993f1dfdb4375f334b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3ac2ee3be872d7ebdfda135f5c543f17/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml
+		ADDED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml
+		ADDED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml:8:22-69
+application
+ADDED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml:10:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/e46341458ae5a4059e11872f7dc13f1f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/e46341458ae5a4059e11872f7dc13f1f/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.blogspot.be_unix.latihandasar.MainActivity
+ADDED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml:17:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml:21:27-74
+activity#com.blogspot.be_unix.latihandasar.LoginActivity
+ADDED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml:24:9-26:69
+	android:label
+		ADDED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml:26:13-57
+	android:name
+		ADDED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml:25:13-42
+uses-sdk
+INJECTED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml
+INJECTED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/21be01105056bbe0aef390f4627988e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/21be01105056bbe0aef390f4627988e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/d586de2681f8137d372428f3bb856b13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/d586de2681f8137d372428f3bb856b13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/e46341458ae5a4059e11872f7dc13f1f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/e46341458ae5a4059e11872f7dc13f1f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/53dc963933d8965bbfb0b2966661045b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/53dc963933d8965bbfb0b2966661045b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/b37998afc06a025af2a7ce97d3ea9c43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/b37998afc06a025af2a7ce97d3ea9c43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/d812d0f35475cd63adbd983c0cca353e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/d812d0f35475cd63adbd983c0cca353e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/a447e16a9c4ba222879376a3f11bea8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/a447e16a9c4ba222879376a3f11bea8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/cb20c1f51609886d113466908122c0f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/cb20c1f51609886d113466908122c0f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/acc56772bb1982ae4168989acd6b0055/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/acc56772bb1982ae4168989acd6b0055/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/1b3e825c61ddaf964a7dc02157eb1d2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/1b3e825c61ddaf964a7dc02157eb1d2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/327dbc9cec3e642e6c452fe3bfdcf7fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/327dbc9cec3e642e6c452fe3bfdcf7fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/40d31e9d4dba4aebd89c8ccd19487b1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/40d31e9d4dba4aebd89c8ccd19487b1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/97c102d307955a6d37aca9132c9c8035/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/97c102d307955a6d37aca9132c9c8035/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0137575e016f24c0912cb76c408d2ac0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0137575e016f24c0912cb76c408d2ac0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/63b77aa7d3a07e6a6ddfdd925de73483/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/63b77aa7d3a07e6a6ddfdd925de73483/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/733283e4b37c5f993f1dfdb4375f334b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/733283e4b37c5f993f1dfdb4375f334b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3ac2ee3be872d7ebdfda135f5c543f17/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/sulaiman/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3ac2ee3be872d7ebdfda135f5c543f17/AndroidManifest.xml:20:5-44
+INJECTED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml
+INJECTED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml
+		ADDED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml
+		ADDED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sulaiman/AndroidStudioProjects/LatihanDasar/app/src/main/AndroidManifest.xml
